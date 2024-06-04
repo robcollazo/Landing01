@@ -1,0 +1,25 @@
+body {
+  border: 1px solid red;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 14px;
+}
+
+h1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 49px;
+}
+
+h1 span {
+  color: #f90;
+  font-weight: 700;
+}
+
+p span {
+  color: #f90;
+}
+
+p strong {
+  font-weight: 700;
+}
